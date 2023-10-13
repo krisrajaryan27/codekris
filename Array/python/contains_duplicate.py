@@ -1,4 +1,4 @@
-#https://leetcode.com/problems/contains-duplicate/description/
+#https://leetcode.com/problems/contains-duplicate/
 """
 Check if the given list of integers contains any duplicates.
     Parameters:
