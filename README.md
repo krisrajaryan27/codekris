@@ -13,7 +13,7 @@ This repository contains my solutions to various LeetCode problems. I use this r
 
 I organize my LeetCode solutions into categories to make it easier to navigate. Here are some of the categories I use:
 
-- **Array**: Problems related to arrays.
+- **Arrays**: Problems related to arrays.
 - **String**: Problems related to strings and text manipulation.
 - **Tree**: Problems related to binary trees, graphs, and other tree-like structures.
 - **Dynamic Programming**: Problems that involve dynamic programming techniques.
